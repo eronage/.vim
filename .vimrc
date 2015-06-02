@@ -1,3 +1,4 @@
+"Move this file to ~/.vimrc, but leave everything else in ~/.vim/
 execute pathogen#infect()
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 set t_Co=256
