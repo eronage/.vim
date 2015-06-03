@@ -1,0 +1,12 @@
+Note: These repos will all have to be cloned independantly, because I'm an idiot, and didn't make these submodules yet
+
+However, links to all of these plugins will be provided below, to make cloning (in the mean time) easy
+
+*NerdTree:
+  https://github.com/scrooloose/nerdtree
+*Supertab:
+  https://github.com/ervandew/supertab
+*Syntastic:
+  https://github.com/scrooloose/syntastic
+*vim-airline:
+  https://github.com/bling/vim-airline
